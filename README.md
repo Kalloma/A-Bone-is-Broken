@@ -7,16 +7,23 @@ When you have an accident and injure an extremity, you will most likely do an X-
 X-rays have undergone a major change over the last few decades and AI is an element that will affect development even further. The images today are digital, unlike when they were analog. But the images are still visualized using the same S-curve to mimic a tradional X-ray. What occurs then is that the digtial informatio is filtered away and not taken advantage of. What if you could use AI help to detect or even diagnose, for example, broken bones?
 
 # How is it used?
-The algorithm should be a filter over the image to detect an area where a suspicion of bone fractures exists. When the area is identified, users must click past a number of multiple choice questions as you see the broken leg, what type of fracture is detected, etc. Once the questions are answered, a preliminary diagnosis can be made.
+1. X-ray image is taken 
+2. The algorithm is be placed over the image as a filter.
+3. The algorithm is then detect an area where a suspicion of bone fractures exists. 
+4. When the area is identified, users must click past a number of multiple choice questions e.g
+      - Do you see the broken leg?
+      - What type of fracture can you detect?
+      - etc.
+ Once the questions are answered and a preliminary diagnosis can be made.
 
 # Data sources and AI methods
 The AI alogorithm would be sold to equiptment companys or directly to the radiology departments. 
 
 # Challenges
-To have a system CE or FDA approved due to the algorithm will determine a medical diagnosis.
+To have the algortithm CE markt or/and FDA approved due to the will determine a medical diagnosis.
 
 # What next?
-To evaluate the market  and learn from what is probably already developed and look at its challenges and opportunities in a continued mapping towards being able to create an AI product for the diagnosis of bone fractures in an X-ray image.
+To evaluate the market and learn from what is probably already developed and look at its challenges and opportunities in a continued mapping towards being able to create an AI product for the diagnosis of bone fractures in an X-ray image.
 
 # Acknowledgments
 Elements of AI, Building AI, Reaktor & University of Helsinki
