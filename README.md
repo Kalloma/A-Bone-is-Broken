@@ -17,7 +17,7 @@ X-rays have undergone a major change over the last few decades and AI is an elem
  Once the questions are answered and a preliminary diagnosis can be made.
 
 # Data sources and AI methods
-The AI alogorithm would be sold to equiptment companys or directly to the radiology departments. 
+Logistic model could maybe be the AI model due each pixel in the x-ray image cwould be assigned a probability between 0 and 1, with a sum of one.
 
 # Challenges
 To have the algortithm CE markt or/and FDA approved due to the will determine a medical diagnosis.
